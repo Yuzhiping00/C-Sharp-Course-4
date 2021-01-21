@@ -1,0 +1,10 @@
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment4\PartB\bin\Debug\PartB.exe.config
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment4\PartB\bin\Debug\PartB.exe
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment4\PartB\bin\Debug\PartB.pdb
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment4\PartB\obj\Debug\PartB.csprojAssemblyReference.cache
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment4\PartB\obj\Debug\PartB.Form1.resources
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment4\PartB\obj\Debug\PartB.Properties.Resources.resources
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment4\PartB\obj\Debug\PartB.csproj.GenerateResource.cache
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment4\PartB\obj\Debug\PartB.csproj.CoreCompileInputs.cache
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment4\PartB\obj\Debug\PartB.exe
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment4\PartB\obj\Debug\PartB.pdb

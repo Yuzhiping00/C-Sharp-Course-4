@@ -1,0 +1,7 @@
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment4\PartA\bin\Debug\PartA.exe.config
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment4\PartA\bin\Debug\PartA.exe
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment4\PartA\bin\Debug\PartA.pdb
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment4\PartA\obj\Debug\PartA.csprojAssemblyReference.cache
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment4\PartA\obj\Debug\PartA.csproj.CoreCompileInputs.cache
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment4\PartA\obj\Debug\PartA.exe
+C:\Users\jerry\Desktop\Programming in.Net_COMP _10204\Assignments\Assignment4\PartA\obj\Debug\PartA.pdb
